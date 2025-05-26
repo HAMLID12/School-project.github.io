@@ -1,2 +1,2 @@
 # School-project.github.io
-my-website
+permalink: /welcome.html
